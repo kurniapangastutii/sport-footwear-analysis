@@ -1,6 +1,6 @@
 # 💰 Sport Footwear Sales Performance Analysis
 
-##Overview
+📌 Overview
 
 This project presents an interactive dashboard built using Power BI to analyze the sales performance of a multi-brand footwear company across different countries, sales channels, and discount strategies. 
 
