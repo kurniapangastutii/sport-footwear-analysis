@@ -5,6 +5,7 @@ This project presents an interactive Power BI dashboard to analyze the sales per
 The dashboard provides a comprehensive view of key business metrics, including total revenue, units sold, average price, and year-over-year (YoY) growth. It is designed to help stakeholders quickly understand performance trends, identify key revenue drivers, and support data-driven decision-making.
 
 🎯 Business Problems
+
 The company is experiencing inconsistent sales performance over time, and it is unclear which factors are driving or limiting revenue growth.
 Key questions include:
 What is causing fluctuations in revenue trends?
