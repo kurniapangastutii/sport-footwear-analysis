@@ -76,9 +76,7 @@ Without clear insights, the company may struggle to optimize its strategy and ac
 - Creating additional columns (Year, Month)  
 - Building a Date table using DAX  
 - Establishing relationships between tables  
-- Creating base measures:
-  - Total Revenue  
-  - Total Units Sold  
+- Creating base measures(e.g., Total Revenue, Total Units Sold)
 
 ### 🧠 Data Calculation (DAX)
 - Year-over-Year (YoY) Growth  
