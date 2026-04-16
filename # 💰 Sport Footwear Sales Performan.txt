@@ -1,0 +1,157 @@
+# 💰 Sport Footwear Sales Performance Analysis
+
+Overview
+
+This project presents an interactive dashboard built using Power BI to analyze the sales performance of a multi-brand footwear company across different countries, sales channels, and discount strategies. 
+
+The dashboard provides a comprehensive view of key business metrics such as total revenue, units sold, average price, and year-over-year (YoY) growth. It is designed to help stakeholders quickly understand performance trends, identify key revenue drivers, and support data-driven decision-making.
+
+##🎯 Business Problems
+The company is experiencing inconsistent sales performance over time, and it is unclear which factors are driving or limiting revenue growth. 
+
+Key questions include:
+What is causing fluctuations in revenue trends?
+Which brands contribute the most to overall performance?
+Does offering discounts effectively increase sales volume?
+Which sales channels and markets should be prioritized?
+
+Without clear insights, the company may struggle to optimize its strategy and achieve sustainable growth.
+
+##📂 Data Overview
+
+Source: Sports Footwear Sales & Consumer Behavior (Kaggle)
+Period: 2018-2025
+Scope: 26k+ orders, 6 brands, 5 categories of shoes, and 6 countries
+Key columns:
+order_id
+order_date
+brand
+category
+final_price_usd
+units_sold
+revenue_usd
+discount_percent
+sales_channel
+country
+
+##🛠 Tools & Technologies
+
+Kaggle → Data source (.csv)
+Power Query → Data Cleaning + Data Preparation  
+Data Modeling → Data Preparation  
+DAX → Data Preparation + EDA  
+Power BI Visual → Data Visualization 
+
+##🔎 Project Workflow
+
+🧹Data Cleaning and Preparation
+
+Converting data type (e.g., date, numeric field)
+
+🧩Data Preparation and Modelling
+
+Creating additional columns such as Year and Month
+Building a Date table using DAX to enable time-based analysis
+Establishing relationships between tables (data modeling)
+Creating foundational measures (e.g., Total Revenue, Total Units Sold)
+
+🧠Data Calculation (DAX)
+
+Year-over-Year (YoY) and Month-over-Month (MoM) Growth
+Discount bucket segmentation
+
+🔎Exploratory Data Analysis (EDA)
+
+Revenue trends over time
+Brand performance comparison
+Impact of discount on sales
+Sales channel distribution
+Geographic performance
+Impact of different payment methods and sales channel
+
+
+##📈 Dashboard (Power BI Section)
+
+The interactive dashboard was developed using Power BI to provide a comprehensive overview of sales performance and key business drivers.
+your-image-link-here
+
+
+Key Performance Indicators (KPIs)
+
+The top section displays key metrics such as Total Revenue, Units Sold, Average Price, and Year-over-Year (YoY) Growth. These KPIs provide a quick snapshot of overall business performance and allow users to immediately assess whether the business is growing or declining.
+
+Sales Trend Analysis
+
+A line chart is used to visualize revenue trends over time. This helps identify fluctuations, growth patterns, and potential seasonality in sales performance.
+
+Brand Performance
+
+A bar and pie chart compares revenue across different brands. This allows users to evaluate which brands and categories contribute the most to overall sales and identify opportunities to strengthen brand positioning.
+
+Discount Impact Analysis
+
+This section analyzes the relationship between discount levels and sales performance using grouped discount categories. It helps determine whether higher discounts effectively drive higher sales volume.
+
+Sales Channel Analysis
+
+A comparison between online and retail channels shows how revenue is distributed across different sales platforms. This insight helps evaluate which channel has greater growth potential.
+
+Geographic Performance
+
+A map visualization highlights revenue distribution across countries. This enables users to identify key markets and potential regions for expansion.
+
+##🔍 Key Insights
+
+Fluctuating Revenue Trend
+
+Revenue shows noticeable fluctuations over the years, including a significant drop followed by recovery. This indicates that the business lacks a consistent growth strategy and may be influenced by external factors or inconsistent campaigns.
+
+Even Brand Contribution
+
+All brands contribute relatively evenly to total revenue, with no single brand significantly outperforming others. This suggests weak brand differentiation and missed opportunities to leverage top-performing brands.
+
+Limited Impact of Discounts
+
+Increasing discount percentages does not lead to a significant rise in units sold. This indicates that higher discounts may not be an effective strategy and could reduce profitability without meaningful sales growth.
+
+Balanced Sales Channels
+
+Sales between online and retail channels are almost evenly distributed. While this shows diversification, it also suggests that the business has not fully optimized high-growth channels such as online platforms.
+
+Global Market Presence
+
+Sales are distributed across multiple countries, indicating a broad market reach. However, further analysis is needed to identify high-performing regions that can be scaled.
+
+##🚀 Business Recommendations
+
+Optimize Discount Strategy
+
+Focus on identifying the most effective discount range instead of applying high discounts broadly. Targeted promotions can improve sales without sacrificing margins.
+
+Strengthen Brand Positioning
+
+Invest in marketing and promotion for top-performing brands to create stronger differentiation and drive higher revenue contribution.
+
+Improve Sales Consistency
+
+Develop a more structured sales strategy by leveraging historical trends, seasonality, and campaign planning to reduce revenue fluctuations.
+
+Expand Online Channel Strategy
+
+Enhance digital presence through marketing campaigns and improved user experience to increase online sales, which offers better scalability.
+
+Focus on High-Potential Markets
+
+Identify top-performing countries and allocate more resources to those regions to maximize growth opportunities.
+
+##🧠Conclusion
+
+This dashboard highlights that while the business maintains stable performance across multiple dimensions, it lacks strong growth drivers. By focusing on data-driven strategies in pricing, branding, and channel optimization, the company can achieve more consistent and scalable revenue growth.
+
+
+
+
+
+
+
+
