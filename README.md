@@ -97,7 +97,7 @@ Without clear insights, the company may struggle to optimize its strategy and ac
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](your-image-link-here)
+![Dashboard Preview](sport_footwear.png)
 
 ---
 
