@@ -88,7 +88,6 @@ Without clear and actionable insights, the company risks making suboptimal decis
 - Impact of discounts on sales  
 - Sales channel distribution  
 - Geographic performance  
-- Payment methods & channel impact  
 
 ---
 
