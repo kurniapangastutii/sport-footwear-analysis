@@ -166,45 +166,17 @@ Revenue shows noticeable fluctuations, indicating:
 ---
 
 ### 🌍 Global Market Presence
-- Sales spread across multiple countries  
-- Need to identify high-performing regions  
+- Sales across countries look quite similar, with no country standing out significantly
 
 ---
 
 ## 🚀 Business Recommendations
-
-### 🎯 Optimize Discount Strategy
-- Focus on effective discount ranges  
-- Avoid excessive discounting  
-
----
-
-### 🏷 Strengthen Brand Positioning
-- Invest in top-performing brands  
-- Improve brand differentiation  
-
----
-
-### 📈 Improve Sales Consistency
-- Use historical trends & seasonality  
-- Plan campaigns more strategically  
-
----
-
-### 🌐 Expand Online Channel Strategy
-- Enhance digital marketing  
-- Improve user experience  
-
----
-
-### 📍 Focus on High-Potential Markets
-- Identify top-performing countries  
-- Allocate resources strategically  
+- Strengthen digital marketing strategies by prioritizing online channels, leveraging trending content, and expanding live shopping activities across social media platforms, as these are likely more effective in driving sales than increasing discount levels.
+- Focus on optimizing high-performing brands and product categories, as they have a greater influence on sales performance compared to discount strategies.
+- Maintain a balanced market approach by continuing to target multiple countries, while exploring small, localized adjustments to improve performance in each market.
 
 ---
 
 ## 🧠 Conclusion
 
-This dashboard highlights that while the business shows stable performance across multiple dimensions, it lacks strong growth drivers.  
-
-By focusing on **data-driven strategies** in pricing, branding, and channel optimization, the company can achieve more consistent and scalable revenue growth.
+Overall, the company’s sales performance remains inconsistent over time. The analysis suggests that brand and product category play a more significant role in driving sales compared to discount levels, which show limited impact. Additionally, sales are relatively evenly distributed across countries, indicating no dominant market. Therefore, focusing on product strategy and digital marketing efforts may be more effective for improving performance than relying heavily on discounts.
