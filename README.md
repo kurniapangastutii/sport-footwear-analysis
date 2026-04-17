@@ -24,9 +24,9 @@ It is designed to help stakeholders:
 The company is experiencing **inconsistent sales performance**, with limited visibility into the factors that are either driving or hindering revenue growth.
 To address this challenge, several key questions need to be explored:
 
-Which brands contribute the most to overall performance?
-Are discounts truly effective in increasing sales volume?
-Which sales channels and markets offer the greatest growth potential and should be prioritized?
+- Which brands contribute the most to overall performance?
+- Are discounts truly effective in increasing sales volume?
+- Which sales channels and markets offer the greatest growth potential and should be prioritized?
 
 Without clear and actionable insights, the company risks making suboptimal decisions, making it difficult to refine its strategy and achieve sustainable long-term growth.
 
