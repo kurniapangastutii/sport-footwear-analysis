@@ -144,8 +144,7 @@ Provides a quick snapshot of overall performance.
 
 ### 📉 Fluctuating Revenue Trend
 Revenue shows noticeable fluctuations, indicating:
-- Lack of consistent strategy  
-- Possible external or campaign-driven impact  
+- Revenue shows a fluctuating trend over time, with noticeable declines in certain years followed by periods of recovery. 
 
 ---
 
