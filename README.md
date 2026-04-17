@@ -149,15 +149,14 @@ Revenue shows noticeable fluctuations, indicating:
 
 ---
 
-### ⚖️ Even Brand Contribution
-- All brands contribute relatively evenly  
-- Indicates weak differentiation  
+### ⚖️ Proportional Brand Contribution
+- ASISCS emerges as the top revenue contributor; however, its lead over other brands remains marginal.
+- Similarly, the basketball shoe category records the highest sales volume, but the gap is not particularly significant.
 
 ---
 
 ### 💸 Limited Impact of Discounts
-- Higher discounts do not significantly increase sales  
-- Potential margin loss without strong benefit  
+- Sales volume remains relatively stable across different discount levels, indicating that higher discounts do not significantly drive an increase in units sold.
 
 ---
 
