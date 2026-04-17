@@ -13,7 +13,7 @@ The dashboard provides a comprehensive view of key business metrics, including:
 - Year-over-Year (YoY) Growth  
 
 It is designed to help stakeholders:
-- Understand performance trends  
+- Understand sales performance 
 - Identify key revenue drivers  
 - Support data-driven decision-making  
 
@@ -21,15 +21,14 @@ It is designed to help stakeholders:
 
 ## 🎯 Business Problems
 
-The company is experiencing **inconsistent sales performance**, and it is unclear which factors are driving or limiting revenue growth.  
+The company is experiencing **inconsistent sales performance**, with limited visibility into the factors that are either driving or hindering revenue growth.
+To address this challenge, several key questions need to be explored:
 
-Key questions include:
-- What is causing fluctuations in revenue trends?  
-- Which brands contribute the most to overall performance?  
-- Do discounts effectively increase sales volume?  
-- Which sales channels and markets should be prioritized?  
+Which brands contribute the most to overall performance?
+Are discounts truly effective in increasing sales volume?
+Which sales channels and markets offer the greatest growth potential and should be prioritized?
 
-Without clear insights, the company may struggle to optimize its strategy and achieve sustainable growth.
+Without clear and actionable insights, the company risks making suboptimal decisions, making it difficult to refine its strategy and achieve sustainable long-term growth.
 
 ---
 
