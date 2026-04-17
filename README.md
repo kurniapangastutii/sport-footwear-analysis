@@ -117,14 +117,14 @@ Provides a quick snapshot of overall performance.
 ---
 
 ### 🔹 Brand Performance
-- Bar & pie charts for brand comparison  
-- Identifies top-performing brands  
+- Bar and pie charts for brand comparison  
+- Identifies top-performing brands and shoe categories
 
 ---
 
 ### 🔹 Discount Impact Analysis
-- Analyzes relationship between discount levels and sales  
-- Evaluates effectiveness of discount strategies  
+- Analyzes the relationship between discount levels and sales  
+- Evaluates the effectiveness of discount strategies  
 
 ---
 
