@@ -7,6 +7,10 @@
 This project analyzes sport footwear sales performance from 2018 to 2025 using SQL, Python, and Power BI.
 The goal is to identify key trends, evaluate business performance, and provide data-driven insights to support decision-making.  
 
+## 📈 Dashboard Preview
+
+![Dashboard Preview](sport_footwear.png)
+
 The dashboard provides a comprehensive view of key business metrics, including:
 - Total Revenue  
 - Units Sold  
@@ -17,10 +21,6 @@ It is designed to help stakeholders:
 - Understand sales performance 
 - Identify key revenue drivers  
 - Support data-driven decision-making  
-
-## 📈 Dashboard Preview
-
-![Dashboard Preview](sport_footwear.png)
 
 ---
 
