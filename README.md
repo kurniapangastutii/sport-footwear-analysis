@@ -9,7 +9,7 @@ The goal is to identify key trends, evaluate business performance, and provide d
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](sport_footwear.png)
+![Dashboard Preview](images/dashboard_preview.png)
 
 The dashboard provides a comprehensive view of key business metrics, including:
 - Total Revenue  
