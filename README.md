@@ -77,6 +77,7 @@ Import raw sport footwear sales dataset (2018–2025).
 
 ###🧹Data Cleaning & Transformation (SQL)
 Clean and transform the dataset by handling missing values, correcting data types, and preparing structured tables for analysis.
+---
 
 ###🧮 Data Analysis & KPI Calculation (SQL)
 Perform aggregations and calculations such as total revenue, yearly trends, and year-over-year (YoY) growth.
@@ -87,7 +88,7 @@ Reprocess and validate key calculations using Python (Pandas) to ensure consiste
 ###💻 Data Visualization (Power BI)
 Build an interactive dashboard to present key metrics, trends, and performance insights.
 
-###💡 Insights & Recommendations
+💡 Insights & Recommendations
 Interpret findings to support data-driven business decisions.
 
 ---
