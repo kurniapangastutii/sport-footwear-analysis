@@ -24,7 +24,7 @@ It is designed to help stakeholders:
 
 ---
 
-## 🎯 Business Problems
+## ✏️ Business Problems
 
 The company is experiencing **inconsistent sales performance**, with limited visibility into the factors driving or hindering revenue growth.
 To address this challenge, several key questions need to be explored:
@@ -36,7 +36,17 @@ To address this challenge, several key questions need to be explored:
 Without clear and actionable insights, the company risks making suboptimal decisions, making it difficult to refine its strategy and achieve sustainable long-term growth.
 
 ---
+## 🎯 Objective
 
+This project aims to:
+
+- Analyze sales trends over time (2018–2025)
+- Identify top-performing brands and product categories
+- Evaluate the impact of discounts on revenue
+- Compare performance across different markets
+- Generate key metrics (e.g., revenue, growth, YoY) to support business decisions
+
+---
 ## 📂 Data Overview
 
 - **Source**: Sports Footwear Sales & Consumer Behavior (Kaggle)  
