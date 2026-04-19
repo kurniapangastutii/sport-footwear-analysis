@@ -26,7 +26,7 @@ It is designed to help stakeholders:
 
 ## 🎯 Business Problems
 
-The company is experiencing **inconsistent sales performance**, with limited visibility into the factors that are either driving or hindering revenue growth.
+The company is experiencing **inconsistent sales performance**, with limited visibility into the factors driving or hindering revenue growth.
 To address this challenge, several key questions need to be explored:
 
 - Which brands contribute the most to overall performance?
@@ -94,44 +94,25 @@ Interpret findings to support data-driven business decisions.
 
 ## 📊 Key Features
 
-### 🔹 Key Performance Indicators (KPIs)
-Displays:
-- Total Revenue  
-- Units Sold  
-- Average Price  
-- YoY Growth  
+## 📊 Key Features
 
-Provides a quick snapshot of overall performance.
+* **Key Performance Indicators (KPIs)**
+  Track core business metrics, including Total Revenue, Units Sold, Average Price, and Year-over-Year (YoY) Growth to monitor overall performance.
 
----
+* **Sales Trend Analysis**
+  Analyze revenue trends over time to identify growth patterns, fluctuations, and potential seasonality.
 
-### 🔹 Sales Trend Analysis
-- Line chart to visualize revenue trends  
-- Identifies fluctuations and seasonality  
+* **Brand & Category Performance**
+  Evaluate and compare performance across brands and product categories to identify top contributors to revenue.
 
----
+* **Discount Impact Analysis**
+  Assess how discount levels influence sales performance and determine the effectiveness of discount strategies.
 
-### 🔹 Brand Performance
-- Bar and pie charts for brand comparison  
-- Identifies top-performing brands and shoe categories
+* **Sales Channel Analysis**
+  Compare online and retail performance to identify high-performing and high-growth channels.
 
----
-
-### 🔹 Discount Impact Analysis
-- Analyzes the relationship between discount levels and sales  
-- Evaluates the effectiveness of discount strategies  
-
----
-
-### 🔹 Sales Channel Analysis
-- Comparison between **Online vs Retail**  
-- Helps identify high-growth channels  
-
----
-
-### 🔹 Geographic Performance
-- Map visualization of revenue by country  
-- Highlights key markets and expansion opportunities  
+* **Geographic Performance Analysis**
+  Examine revenue distribution across countries to highlight key markets and potential expansion opportunities.
 
 ---
 
@@ -174,4 +155,4 @@ Revenue shows noticeable fluctuations, indicating:
 
 ## 🧠 Conclusion
 
-Overall, the company’s sales performance remains inconsistent over time. The analysis suggests that brand and product category play a more significant role in driving sales compared to discount levels, which show limited impact. Additionally, sales are relatively evenly distributed across countries, indicating no dominant market. Therefore, focusing on product strategy and digital marketing efforts may be more effective for improving performance than relying heavily on discounts.
+Overall, the company’s sales performance remains inconsistent over time. The analysis suggests that brand and product category play a more significant role in driving sales than discount levels, which have limited impact. Additionally, sales are relatively evenly distributed across countries, indicating no dominant market. Therefore, focusing on product strategy and digital marketing efforts may be more effective for improving performance than relying heavily on discounts.
