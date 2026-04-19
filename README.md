@@ -63,11 +63,10 @@ Without clear and actionable insights, the company risks making suboptimal decis
 
 ## 🛠 Tools & Technologies
 
-- **Kaggle** → Data source (.csv)  
-- **Power Query** → Data cleaning & preparation  
-- **Data Modeling** → Relationship building  
-- **DAX** → Data calculation & analysis  
-- **Power BI** → Data visualization  
+* SQL – Data cleaning, transformation, and KPI calculation
+* Python (Pandas) – Data processing and validation
+* Power BI – Data visualization and dashboard creation
+
 
 ---
 
