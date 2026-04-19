@@ -94,8 +94,6 @@ Interpret findings to support data-driven business decisions.
 
 ## 📊 Key Features
 
-## 📊 Key Features
-
 * **Key Performance Indicators (KPIs)**
   Track core business metrics, including Total Revenue, Units Sold, Average Price, and Year-over-Year (YoY) Growth to monitor overall performance.
 
