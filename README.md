@@ -73,7 +73,7 @@ Without clear and actionable insights, the company risks making suboptimal decis
 ## 🔄 Project Workflow
 
 📂 Data Collection
-Import raw sport footwear sales dataset (2018–2025).
+* Import raw sport footwear sales dataset (2018–2025).
 
 🧹Data Cleaning & Transformation (SQL)
 Clean and transform the dataset by handling missing values, correcting data types, and preparing structured tables for analysis.
