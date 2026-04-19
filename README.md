@@ -72,26 +72,19 @@ Without clear and actionable insights, the company risks making suboptimal decis
 
 ## 🔎 Project Workflow
 
-### 🧹 Data Cleaning & Preparation
-- Converting data types (date, numeric fields)  
-
-### 🧩 Data Preparation & Modeling
-- Creating additional columns (Year, Month)  
-- Building a Date table using DAX  
-- Establishing relationships between tables  
-- Creating base measures(e.g., Total Revenue, Total Units Sold)
-
-### 🧠 Data Calculation (DAX)
-- Year-over-Year (YoY) Growth  
-- Month-over-Month (MoM) Growth  
-- Discount bucket segmentation  
-
-### 🔍 Exploratory Data Analysis (EDA)
-- Revenue trends over time  
-- Brand performance comparison  
-- Impact of discounts on sales  
-- Sales channel distribution  
-- Geographic performance  
+🔄 Project Workflow
+Data Collection
+Import raw sport footwear sales dataset (2018–2025).
+Data Cleaning & Transformation (SQL)
+Clean and transform the dataset by handling missing values, correcting data types, and preparing structured tables for analysis.
+Data Analysis & KPI Calculation (SQL)
+Perform aggregations and calculations such as total revenue, yearly trends, and year-over-year (YoY) growth.
+Data Validation (Python)
+Reprocess and validate key calculations using Python (Pandas) to ensure consistency and accuracy of results.
+Data Visualization (Power BI)
+Build an interactive dashboard to present key metrics, trends, and performance insights.
+Insights & Recommendations
+Interpret findings to support data-driven business decisions.
 
 ---
 
