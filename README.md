@@ -157,4 +157,5 @@ Revenue shows noticeable fluctuations, indicating:
 
 ## 🧠 Conclusion
 
-Overall, the company’s sales performance remains inconsistent over time. The analysis suggests that brand and product category play a more significant role in driving sales than discount levels, which have limited impact. Additionally, sales are relatively evenly distributed across countries, indicating no dominant market. Therefore, focusing on product strategy and digital marketing efforts may be more effective for improving performance than relying heavily on discounts.
+Overall, the company’s sales performance remains inconsistent over time. The analysis suggests that brand and product category play a more significant role in driving sales than discount levels, which have a limited impact. Additionally, sales are relatively evenly distributed across countries, indicating no dominant market.
+Therefore, focusing on product strategy and digital marketing efforts may be more effective for improving performance than relying heavily on discounts.
