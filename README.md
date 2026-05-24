@@ -138,7 +138,7 @@ Revenue shows noticeable fluctuations, indicating:
 ---
 
 ### 🔄 Balanced Sales Channels
-- Online and retail are evenly distributed  
+- Online and retail are equally distributed  
 - Opportunity to optimize digital channels  
 
 ---
